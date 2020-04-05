@@ -1,0 +1,15 @@
+{
+	"disableAutoUpdate": false,
+	"name": "Body Unblocker",
+	"author": "TerableMods",
+	"description": "Prevents you from being body blocked in dungeons and open world",
+	"options": { 
+		"niceName": "Body Unblocker",
+        "guiName": "Body Unblocker",
+        "settingsVersion": 1,
+        "settingsFile": "config.json",
+        "settingsMigrator": "settings_migrator.js"
+		},
+	"servers": ["https://raw.githubusercontent.com/TerableMods/Body-Unblocker/master/"],
+	"supportUrl": "https://github.com/TerableMods/Body-Unblocker/issues"
+}

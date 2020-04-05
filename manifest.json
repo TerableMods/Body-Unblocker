@@ -1,0 +1,12 @@
+{
+	"files": {
+		"README.md": "dc03022e1eb4b9cad0adbbe26feba2d6b04cf4dee8d64931235bbf7329899a15",
+		"index.js": "41a5e5478b09f4ec93b197fc30eed71930ca07601abd2ed56fe3690a791346d8",
+		"module.json": "6403d5d6e341fc7869583a7c444d21dd7b890fc98dc6a9b44f9deeb018e75d8b",
+		"settings_migrator.js": "346224e95298eff98b344c2091d491aa67816fba2c229b4f1d12ca155baa054f"
+	},
+	"defs": {
+		"S_PARTY_MEMBER_LIST": 7,
+		"S_PARTY_INFO": 1
+	}
+}
